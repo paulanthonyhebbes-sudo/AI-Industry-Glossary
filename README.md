@@ -6,9 +6,7 @@ Oct 5, 2026 ·
 
 The terms are grouped into twelve layers that run from physical chips at the bottom to applications, evaluation and governance at the top, plus a final section of industry slang. Each layer depends on the ones beneath it: hardware runs training, training produces models, inference serves models, and applications are built on top.
 
-Within each table, terms run roughly from foundational to advanced. Where a term appears in more than one layer, it is defined once and cross-referenced with (see Layer N).
-
-&#91;embedded content: the AI stack · 10 layers plus 2 cross-cutting bands\]
+Within each table, terms run roughly from foundational to advanced.
 
 Read from the bottom up: each rung relies on the ones below, while evaluation and safety apply to the whole stack.
 
